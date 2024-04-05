@@ -8,14 +8,15 @@ I capped the model at 100 iterations, because that appeared to be the most effic
 
 ## Results
 
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
-
-* Machine Learning Model:
-    * Accuracy: .99
-    * Precision, Healthy Loans (0): 1.00
-    * Precision, High-Risk Loans (1): .85
-    * Recall, Healthy Loans (0): .99
-    * Recall, High-Risk Loans (1): .91
+* Machine Learning Model, Healhty Loans (0):
+   * Accuracy: .99
+   * Precision: 1.00
+   * Recall: .99
+ 
+* Machine Learning Model, High-Risk Loans (1):
+   * Accuracy: .99
+   * Precision: .85
+   * Recall: .91
 
 ## Summary
 
